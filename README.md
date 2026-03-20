@@ -48,11 +48,11 @@ Developing an AI visibility and growth strategy, focusing on search discoverabil
 
 ## Technical Skills
 
-Languages: TypeScript, C# , Python, JavaScript, 
+Languages: TypeScript, C#, Python, JavaScript  
 Frontend: React, Next.js  
 Backend: ASP.NET, Flask  
 Database: SQL, PostgreSQL, Supabase  
-Other: REST APIs, Git, Chrome Extensions, AI API Integration  
+Other: REST APIs, Git, Chrome Extensions, AI Integration
 
 ---
 
