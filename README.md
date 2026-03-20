@@ -55,6 +55,6 @@ Other: REST APIs, Git, Chrome Extensions, AI API Integration
 
 ---
 
-## Contact
+## Lets Connect
 
-LinkedIn: (add your link)
+LinkedIn: https://www.linkedin.com/in/manushrimurugakumar
